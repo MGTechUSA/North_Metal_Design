@@ -1,0 +1,15 @@
+date,system,action,status,evidence,follow_up
+2026-10-12,local workspace,Preserved client brief and created local asset structure,completed,/workspace/NMD_PHASE1,Sync to client Google Drive after access is available
+2026-10-12,environment draft,Added northmetaldesign.com and www.northmetaldesign.com to custom network domains,saved; not applied,Draft save confirmed,"Review and save settings, then publish environment"
+2026-10-12,website,Read-only home and portfolio requests,blocked,Proxy tunnel returned 403 Forbidden,Retry after network settings apply
+2026-10-12,client,Confirmed official Instagram and Facebook URLs,completed,https://www.instagram.com/northmetaldesignllc/ ; https://www.facebook.com/northmetaldesignllc,Administration access remains unavailable
+2026-10-12,public profiles,Read-only Facebook and Instagram requests,blocked,Proxy tunnel returned 403 Forbidden,Retry after network settings apply
+2026-10-12,environment draft,Added www.facebook.com and www.instagram.com; saved startup guidance,saved; not applied,Draft save confirmed,"Review and save settings, then publish environment"
+2026-10-12,client reporting requirements,Recorded before/after screenshot protocol and Apsolife Media Studios LLC report branding,completed,REPORTS/evidence_protocol.md,Original logo file and connected platform access pending
+2026-10-12,client reporting requirements,Report branding changed to supplied MGT Systems logo; social media section credits collaboration with Apsolife Media Studios LLC,instructions updated,REPORTS/evidence_protocol.md,Incorporate original logo when accessible; no exported report yet
+2026-10-12,phase 1,Confirmed ZIP 75051 and hours Monday-Friday 8-5; Saturday by appointment,completed locally; no external changes,Client confirmation in chat,Apply after authorized admin access
+2026-10-12,phase 1,Saved nine useful website audit screenshots,completed locally; no external changes,REPORTS/evidence_register.csv,No after screenshots until real external changes
+2026-10-12,phase 1,Downloaded 88 original portfolio files; 79 distinct checksums,completed locally; no external changes,RESEARCH/gallery_original_inventory.json,Visual review and final derivatives pending
+2026-10-12,phase 1,Prepared 10 captions and supporting Story concepts,completed locally; no external changes,CONTENT/first_10_drafts.md,No posts scheduled
+2026-10-12,local report,Created progress_report.html and verified 19 embedded images in Chromium,verified draft; logo not incorporated,REPORTS/EVIDENCE/REPORT_COPIES/NMD_REPORT_DRAFT_PREVIEW.png,Final branding and external execution require pending access
+2026-10-12,client asset destination,Updated target to G:\My Drive\AlexGibHub\PORTFOLIO_WEB_FOR_INSTAGRAM and prepared flat-root ZIP,ZIP verified; not copied to PC,/workspace/exports/PORTFOLIO_WEB_FOR_INSTAGRAM.zip,Download and extract to confirmed destination

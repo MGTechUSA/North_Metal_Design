@@ -1,0 +1,24 @@
+# Estado del trabajo — 12 de octubre de 2026
+
+## Completado y comprobado
+
+- Auditoría pública inicial del website y categorías de portfolio.
+- Nueve capturas útiles del website; una captura local de preview del reporte, identificada como borrador.
+- 26 URLs internas consultadas: respondieron HTTP 200. Esto no verifica formularios o integraciones.
+- 88 archivos del portfolio descargados y conservados, equivalentes a 79 contenidos distintos por SHA-256.
+- Diez captions en inglés y diez conceptos de Stories basados en imágenes inspeccionadas.
+- Propuestas de perfiles y correcciones de website preparadas.
+- Datos de dirección y horario confirmados por el cliente.
+- Paquetes preparados para traslado a la carpeta local elegida.
+
+## Preparado, pendiente de ejecución
+
+Unificar ZIP y horarios; sustituir texto ajeno de Ozlockers; revisar afirmaciones de seguridad y cifras del website; corregir enlace de Mailbox; mejorar bio y descripción. No están aplicados.
+
+## Todavía no realizado
+
+Cambios externos: **0**. Publicaciones programadas: **0**. Publicaciones publicadas: **0**. Posts archivados: **0**. Exportaciones finales 1080 × 1080: **0**. Stories gráficos finales: **0**. Tríptico terminado: **no**. Logo MGT Systems incorporado al reporte: **no**. Archivos copiados a tu PC desde cloud: **no comprobado**.
+
+## Siguiente paso
+
+Resolver los accesos indicados en ACCESOS_PENDIENTES.md, completar la revisión de las cuentas, preparar piezas finales y ejecutar cambios con evidencia antes/después. Las correcciones de ZIP y horario ya están confirmadas; no requieren volver a preguntar por esos valores.
