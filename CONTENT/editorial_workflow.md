@@ -24,13 +24,13 @@ CTAs disponibles: Request a Quote; Start Your Project; Contact North Metal Desig
 
 Elegir 3–6 hashtags específicos como criterio editorial inicial, sin tratar esa cifra como regla de plataforma: #NorthMetalDesign, #CustomMetalFabrication y etiquetas verificadas del producto o audiencia. Usar #DFWContractors o #TexasConstruction cuando el enfoque lo justifique. No aplicar #LuxuryHomes a cualquier proyecto.
 
-## Calendario
+## Calendario vigente
 
-Lunes a viernes: feed a las 8:00 AM y 1:00 PM, `America/Chicago`. Objetivo: 10 piezas editoriales semanales, cada una para Instagram y Facebook, más 10 Stories relacionados, adaptados a ambas plataformas cuando se soporte. Una misma pieza distribuida a dos plataformas no cuenta como dos proyectos distintos.
+Alternar 1 y 2 posts por día laborable, de lunes a viernes, sin reiniciar el patrón cada lunes. El cliente reemplazó la cuota anterior de dos posts diarios para dar prioridad a la cobertura del resto del año. Primer post 8:00 AM, segundo 1:00 PM cuando corresponda, America/Chicago. Cada pieza tendrá un Story relacionado y distribución en Instagram/Facebook cuando la plataforma lo permita.
 
-`weekly_slots.csv` define espacios recurrentes, no publicaciones programadas. Asignar fechas solo cuando haya assets y copy verificados. No llenar un espacio con repetición de baja calidad. Confirmar la zona horaria de Meta antes de programar, conservar ID de programación y comprobar el estado real de cada plataforma.
+El ciclo de dos semanas suma 15 posts. Consultar `calendario_resto_2026.md` y `calendario_resto_2026.csv`: referencia tentativa del 13 de octubre al 31 de diciembre, 87 espacios, no programados. El inicio real depende de assets y accesos listos. Confirmar el contenido de cada pieza; no asignar imágenes repetitivas para llenar espacios. Los temas propuestos no sustituyen captions específicos basados en imágenes verificadas.
 
-Cada Story añade contexto, un detalle o una pregunta útil al feed: por ejemplo, señalar una unión visible o invitar a ver el proyecto completo. No duplicar automáticamente la foto. Registrar enlace/CTA y comprobar que las funciones estén disponibles en la cuenta. Si Meta no permite un Story o sticker solicitado, documentar y preparar la alternativa para publicación manual.
+Cada Story añade un detalle, contexto o una pregunta útil al feed, en vez de duplicarlo. Registrar CTA/destino y verificar su disponibilidad en la cuenta. Si Meta no permite una función solicitada, documentar y preparar una alternativa adecuada.
 
 ## Control y reportes
 

@@ -6,7 +6,7 @@
 | Acceso autorizado al administrador del website | Aplicar las correcciones de contenido ya preparadas |
 | Logos actuales de North Metal Design de NEW | Preparar identidad visual y tríptico sin usar logos anteriores |
 | Archivo original accesible del logo MGT Systems | Incorporar la marca al reporte final sin redibujarla |
-| Acceso seguro a la carpeta local/Drive elegida, o descarga y extracción manual | Colocar los archivos en G:\My Drive\AlexGibHub |
+| Transferencia a carpeta local/Drive | Opcional; el cliente revisa en GitHub y dejó la copia local sin prioridad |
 | Aplicar dominios adicionales de recursos Meta guardados en ajustes del entorno | Reintentar las vistas públicas de las redes y completar capturas |
 
 No compartir contraseñas, tokens o códigos MFA en chat, GitHub ni estos documentos. Si una pantalla requiere login o MFA personal, el usuario debe intervenir por el flujo seguro disponible. La unidad G: no está montada en el entorno cloud.

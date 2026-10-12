@@ -9,7 +9,8 @@
 - Diez captions en inglés y diez conceptos de Stories basados en imágenes inspeccionadas.
 - Propuestas de perfiles y correcciones de website preparadas.
 - Datos de dirección y horario confirmados por el cliente.
-- Paquetes preparados para traslado a la carpeta local elegida.
+- Paquetes preparados para traslado; copia local sin prioridad por indicación del cliente.
+- Calendario editorial tentativo hasta el 31 de diciembre: 87 espacios, alternando 1 y 2 posts por día laborable. No programado.
 
 ## Preparado, pendiente de ejecución
 
