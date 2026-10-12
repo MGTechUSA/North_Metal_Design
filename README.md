@@ -4,6 +4,7 @@ Documentación de auditoría, contenido y presencia digital del cliente. Comienz
 
 | Qué revisar | Documento |
 | --- | --- |
+| Ver las imágenes del portfolio | [Galería visual](GALERIA_PORTFOLIO.md) |
 | Estado real y siguiente paso | [ESTADO_DEL_TRABAJO.md](ESTADO_DEL_TRABAJO.md) |
 | Dirección, contacto y horario confirmados | [DATOS_CONFIRMADOS.md](DATOS_CONFIRMADOS.md) |
 | Hallazgos y capturas del sitio | [Reporte de auditoría](REPORTS/README.md) |
@@ -11,6 +12,7 @@ Documentación de auditoría, contenido y presencia digital del cliente. Comienz
 | Bio de Instagram y descripción de Facebook | [Propuestas de perfiles](CONTENT/profile_proposals.md) |
 | Correcciones de website | [Cambios preparados](CONTENT/website_corrections.md) |
 | Diseño pendiente de aprobación | [Brief del tríptico](CONTENT/pinned_triptych_brief.md) |
+| Conectar el trabajo con tu PC | [Guía de conexión local](CONEXION_LOCAL.md) |
 | Accesos pendientes | [ACCESOS_PENDIENTES.md](ACCESOS_PENDIENTES.md) |
 | Instrucciones completas del cliente | [Brief original](CLIENT_BRIEF_ES.txt) |
 
