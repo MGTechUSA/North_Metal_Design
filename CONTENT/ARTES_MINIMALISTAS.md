@@ -16,7 +16,7 @@ Dimensiones del borrador: **941 × 1672**. El logo es referencia del adjunto del
 
 Texto: Custom Metal Planters · Details that define the space · For your residential or commercial project · DM us “PLANTERS”.
 
-Dimensiones del borrador: **941 × 1672**. Complementa una foto real del portfolio; no utiliza un producto inventado ni sustituye la fotografía del trabajo. La prueba oscura anterior sin logo queda fuera de la selección de publicación.
+Dimensiones del borrador: **941 × 1672**. Complementa una foto real del portfolio; no utiliza un producto inventado ni sustituye la fotografía del trabajo. La dirección visual de la prueba oscura fue aprobada por el cliente y se conserva como variante; ese archivo necesita logo oficial y revisión final antes de publicación.
 
 ## Post gráfico — custom fabrication
 
@@ -48,8 +48,12 @@ Los Stories complementan fotos o artes con contexto y CTA, siempre con logo. No 
 - Revisar en teléfono el contraste, tamaño de letra y zonas seguras. La propuesta de Story de empresa tiene CTA bajo: ajustar su posición si interfiere con controles de la cuenta.
 - Comprobar botones/enlaces nativos y destino de DM cuando exista acceso autorizado. Un recuadro gráfico no activa esa función.
 
-Estado: **2 Stories con logo y 1 arte de feed en borrador**. Existe además una prueba anterior de Story sin logo, conservada como antecedente y no seleccionada. Piezas finales, publicaciones y programación: **0**.
+Estado: **2 Stories con logo y 1 arte de feed en borrador**. Existe además una prueba oscura sin logo cuyo estilo fue aprobado; añadir el logo y validar el archivo final antes de usarla. Piezas finales, publicaciones y programación: **0**.
 
 ## Secuencia de Story confirmada
 
-Cada arte va seguido inmediatamente por una foto del trabajo correspondiente, sin intercalar otro servicio. Registrar orden 1 arte y orden 2 foto con el mismo sequence_id. Si se aplica a los 87 posts tentativos, equivale a 87 parejas / 174 frames, todavía sin producir ni programar. Las dos parejas de muestra están en [STORY_SEQUENCES/README.md](STORY_SEQUENCES/README.md).
+Cada arte va seguido inmediatamente por una foto del trabajo correspondiente, sin intercalar otro servicio. Registrar orden 1 arte y orden 2 foto con el mismo sequence_id. La pauta actual de Stories tiene dos bloques diarios independientes del feed: 116 bloques / 232 frames tentativos hasta fin de año, todavía sin producir ni programar. Las dos parejas de muestra están en [STORY_SEQUENCES/README.md](STORY_SEQUENCES/README.md).
+
+## Dos líneas visuales y dos bloques diarios
+
+Mantener las variantes oscura arquitectónica y clara minimalista, con logo en ambas. [Ver la pauta vigente](STORY_SEQUENCES/DOS_BLOQUES_DIARIOS.md).

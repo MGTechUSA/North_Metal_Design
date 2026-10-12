@@ -28,7 +28,7 @@ La instrucción actual exige el logo en todos los artes de Story. [Ver los dos S
 
 ![Story de planters con logo — borrador](STORY_PREVIEWS/NMD_Planters_Story_Logo_DRAFT_v02.png)
 
-Los nuevos Stories son propuestas con el logo adjunto como referencia, pendientes de cotejo fiel, exportación final y control móvil. El recuadro DM es visual, no un botón nativo configurado. La prueba oscura anterior sin logo se conserva como antecedente y queda fuera de la selección de publicación.
+Los nuevos Stories son propuestas con el logo adjunto como referencia, pendientes de cotejo fiel, exportación final y control móvil. El recuadro DM es visual, no un botón nativo configurado. El cliente aprobó el estilo de la prueba oscura y pidió conservarlo junto al estilo claro; el archivo sin logo requiere adaptación antes de publicar.
 
 ## Revisión general de los originales
 

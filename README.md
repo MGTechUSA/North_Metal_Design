@@ -4,6 +4,7 @@ Documentación de auditoría, contenido y presencia digital del cliente. Comienz
 
 | Qué revisar | Documento |
 | --- | --- |
+| Stories dos veces al día | [Pauta y estilos](CONTENT/STORY_SEQUENCES/DOS_BLOQUES_DIARIOS.md) |
 | Stories en parejas: arte → foto | [Secuencias de muestra](CONTENT/STORY_SEQUENCES/README.md) |
 | Nuevos artes con logo | [Dos Stories y un post gráfico](CONTENT/ARTES_MINIMALISTAS.md) |
 | Videos en Reels | [Criterios de formato y grid](CONTENT/REELS/README.md) |
@@ -31,3 +32,5 @@ Cadencia vigente: alternar 1 y 2 posts por día laborable; cobertura del resto d
 Actualización: Threads oficial confirmado como https://www.threads.com/@northmetaldesignllc. Se preparan versiones propias, con ruta de publicación pendiente de verificar. Posts IG/FB: cinco hashtags específicos y CTA a DM; los botones nativos no están configurados.
 
 Feed como portfolio: foto de trabajo cada día laborable y artes minimalistas complementarios en los días de dos posts. Todos los Stories deben incluir el logo de North Metal Design. Videos: Reels, con presentación en el grid pendiente de verificar en la cuenta.
+
+Stories: dos bloques por día laborable, 8:00 AM y 1:00 PM, arte con logo seguido por foto correspondiente. Se mantienen los estilos oscuro arquitectónico y claro minimalista.

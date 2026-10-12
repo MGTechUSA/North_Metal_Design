@@ -37,8 +37,12 @@ Fuente: https://northmetaldesign.com/door/. El mensaje de empresa abarca fabrica
 - Mantener logo, legibilidad y zonas seguras en los artes. Para el frame fotográfico, conservar el producto completo y revisar la aplicación discreta de identidad sin cubrirlo.
 - CTA visual y botón nativo son distintos; no se ha configurado un botón de DM.
 
-## Volumen de planificación
+## Volumen de planificación vigente
 
-Si cada uno de los 87 posts tentativos tiene esta pareja, el plan representa **87 secuencias / 174 frames de Stories para IG/FB**, pendientes de selección y producción. No son 174 diseños creados. Actualmente hay **dos parejas de muestra**, cada una con arte en borrador y foto original seleccionada. La prueba anterior sin logo no está seleccionada para publicación.
+Dos bloques de Stories por día laborable, a las 8:00 AM y 1:00 PM, independientemente de si hay uno o dos posts de feed. Cada bloque incluye arte con logo → foto correspondiente: mínimo cuatro frames por día. Para el periodo tentativo de 58 días laborables hasta fin de 2026: **116 bloques / 232 frames**, aún sin producir ni programar. Esta cifra reemplaza la estimación anterior de 174 frames.
+
+[Plan de dos bloques diarios](DOS_BLOQUES_DIARIOS.md) · [CSV de bloques](story_blocks_resto_2026.csv).
+
+El estilo oscuro mostrado por el cliente está aprobado como dirección visual y se conserva junto al estilo claro. La muestra oscura sin logo requiere logo oficial y control final antes de publicar. Actualmente hay dos temas de parejas de muestra, no 116 secuencias terminadas.
 
 [Registro de secuencias](sequences.csv) · [Artes minimalistas](../ARTES_MINIMALISTAS.md).

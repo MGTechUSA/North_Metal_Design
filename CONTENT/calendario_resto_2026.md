@@ -47,4 +47,8 @@ Los primeros diez captions se vinculan a los diez primeros espacios fotográfico
 
 ## Secuencia de Story confirmada
 
-Cada arte va seguido inmediatamente por una foto del trabajo correspondiente, sin intercalar otro servicio. Registrar orden 1 arte y orden 2 foto con el mismo sequence_id. Si se aplica a los 87 posts tentativos, equivale a 87 parejas / 174 frames, todavía sin producir ni programar. Las dos parejas de muestra están en [STORY_SEQUENCES/README.md](STORY_SEQUENCES/README.md).
+Cada arte va seguido inmediatamente por una foto del trabajo correspondiente, sin intercalar otro servicio. Registrar orden 1 arte y orden 2 foto con el mismo sequence_id. La pauta vigente de dos bloques de Stories diarios representa 116 bloques / 232 frames tentativos, independientes de los 87 posts del feed. Las dos parejas de muestra están en [STORY_SEQUENCES/README.md](STORY_SEQUENCES/README.md).
+
+## Actualización: dos bloques de Stories por día
+
+8:00 AM y 1:00 PM, lunes a viernes, America/Chicago. Cada bloque: arte con logo → foto del trabajo correspondiente. Conservar estilos oscuro arquitectónico y claro minimalista. La cadencia del feed continúa alternando 1 y 2 posts; la nueva frecuencia aplica a Stories. Ver [plan vigente](STORY_SEQUENCES/DOS_BLOQUES_DIARIOS.md).

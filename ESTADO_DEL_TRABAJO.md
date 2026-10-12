@@ -29,4 +29,6 @@ Resolver los accesos indicados en ACCESOS_PENDIENTES.md, completar la revisión 
 
 Calendario reequilibrado: 58 espacios de fotos y 29 artes complementarios. Ninguna publicación programada. Logo adjunto por el cliente utilizado como referencia de diseño; cotejo fiel y exportación final pendientes.
 
-Stories: dos parejas de muestra (arte con logo + foto correspondiente). El plan de 87 posts implicaría 174 frames, no creados todavía. Fotos de muestra conservan bytes originales y requieren composición final para Story.
+Stories: dos parejas de muestra (arte con logo + foto correspondiente). La pauta vigente de dos bloques diarios implica 116 bloques / 232 frames tentativos, no creados todavía. Fotos de muestra conservan bytes originales y requieren composición final para Story.
+
+Dirección oscura arquitectónica aprobada por el cliente, junto a la clara minimalista. Aprobar el estilo no aprueba la ausencia del logo ni certifica el archivo final. Stories: dos bloques diarios; feed: alternancia de 1 y 2 posts.
