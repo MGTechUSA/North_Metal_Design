@@ -1,0 +1,46 @@
+[
+  {
+    "sequence_id": "NMD-STORY-PLANTERS-001",
+    "topic": "Planters",
+    "order": 1,
+    "frame_type": "Arte minimalista con logo",
+    "file": "CONTENT/STORY_PREVIEWS/NMD_Planters_Story_Logo_DRAFT_v02.png",
+    "source_page": "Logo adjunto por el cliente",
+    "status": "Propuesta gráfica; logo y exportación final pendientes",
+    "publish_group": "NMD-STORY-PLANTERS-001",
+    "native_dm_button": "No configurado"
+  },
+  {
+    "sequence_id": "NMD-STORY-PLANTERS-001",
+    "topic": "Planters",
+    "order": 2,
+    "frame_type": "Foto del trabajo correspondiente",
+    "file": "CONTENT/STORY_SEQUENCES/PHOTOS/NMD_Planters_Photo_SOURCE.jpg",
+    "source_page": "https://northmetaldesign.com/planters/",
+    "status": "Original seleccionado para segundo frame; 1707x2560; formato Story y control final pendientes",
+    "publish_group": "NMD-STORY-PLANTERS-001",
+    "native_dm_button": "No configurado"
+  },
+  {
+    "sequence_id": "NMD-STORY-COMPANY-001",
+    "topic": "Custom Metal Fabrication",
+    "order": 1,
+    "frame_type": "Arte minimalista con logo",
+    "file": "CONTENT/STORY_PREVIEWS/NMD_Brand_Story_Logo_DRAFT_v01.png",
+    "source_page": "Logo adjunto por el cliente",
+    "status": "Propuesta gráfica; logo y exportación final pendientes",
+    "publish_group": "NMD-STORY-COMPANY-001",
+    "native_dm_button": "No configurado"
+  },
+  {
+    "sequence_id": "NMD-STORY-COMPANY-001",
+    "topic": "Custom Metal Fabrication",
+    "order": 2,
+    "frame_type": "Foto del trabajo correspondiente",
+    "file": "CONTENT/STORY_SEQUENCES/PHOTOS/NMD_Company_Doors_Photo_SOURCE.png",
+    "source_page": "https://northmetaldesign.com/door/",
+    "status": "Original seleccionado para segundo frame; 1086x1448; formato Story y control final pendientes",
+    "publish_group": "NMD-STORY-COMPANY-001",
+    "native_dm_button": "No configurado"
+  }
+]

@@ -22,15 +22,13 @@ Segunda pasada: se solicitó retirar cartón y cinta, mejorar exposición y cons
 
 Dimensiones v02: **1448 × 1086**. No es una exportación 1080 × 1080. No reconstruir partes del producto que no puedan verificarse en la fuente; elegir otra toma cuando la limpieza requiera inventarlas.
 
-## Story con CTA a DM — propuesta visual
+## Stories con logo y CTA — propuestas actuales
 
-Complementa un post de planters con mensaje de diseño y una invitación a iniciar conversación. Es una composición gráfica conceptual, no una fotografía de un proyecto ni el logo oficial. La decoración de la pieza no representa un producto fabricado confirmado.
+La instrucción actual exige el logo en todos los artes de Story. [Ver los dos Stories con logo y el post gráfico](ARTES_MINIMALISTAS.md).
 
-![Story de planters con CTA visual](STORY_PREVIEWS/NMD_Planters_Story_DM_DRAFT_v01.png)
+![Story de planters con logo — borrador](STORY_PREVIEWS/NMD_Planters_Story_Logo_DRAFT_v02.png)
 
-Dimensiones: **941 × 1672**, proporción aproximada 9:16. Texto principal, CTA, contraste y zonas seguras fueron revisados visualmente en el borrador. Pendientes: tamaño de exportación definitivo, logo actual cuando corresponda, revisión móvil y funcionalidad nativa de la cuenta.
-
-El recuadro `DM US “PROJECT”` es texto gráfico. **No es un botón clicable ni una automatización configurada.** La configuración de respuesta, botón o enlace nativo debe verificarse en la plataforma y en la cuenta autorizada. No afirmar que el visitante recibirá una cotización automática.
+Los nuevos Stories son propuestas con el logo adjunto como referencia, pendientes de cotejo fiel, exportación final y control móvil. El recuadro DM es visual, no un botón nativo configurado. La prueba oscura anterior sin logo se conserva como antecedente y queda fuera de la selección de publicación.
 
 ## Revisión general de los originales
 

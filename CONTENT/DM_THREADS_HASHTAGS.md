@@ -36,7 +36,7 @@ Dominios adicionales guardados en el borrador: www.threads.com, www.threads.net,
 
 - [Diez captions IG/FB](first_10_drafts.md), con cinco hashtags y CTA a DM.
 - [Diez versiones Threads](threads_drafts.md), menores de 500 caracteres, pendientes de formato final y ruta de publicación.
-- [Retoques y Story para revisión](REVISION_VISUAL.md), no listos para publicar.
+- [Retoques para revisión](REVISION_VISUAL.md) y [nuevos Stories con logo](ARTES_MINIMALISTAS.md), no listos para publicar.
 - Calendario alternando 1 y 2 posts por día laborable, con prioridad de cobertura hasta fin de año y calidad.
 
 Cambios en botones, cuentas y automatizaciones: **0**. Publicaciones y programación en Instagram, Facebook y Threads: **0**.

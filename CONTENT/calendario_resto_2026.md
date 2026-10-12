@@ -36,3 +36,15 @@ Seleccionar y agrupar material; preparar la siguiente tanda visual con sus capti
 La copia local y el montaje de G: dejaron de ser prioridad por indicación del cliente; GitHub es el punto de revisión actual. Mantener los paquetes existentes disponibles, sin pedir conectar el PC para continuar la preparación editorial.
 
 Actualización visual y de conversión: cinco hashtags específicos por caption IG/FB; versiones Threads y etiquetas sujetas al formato nativo confirmado. CTAs a DM preparados, sin botones ni automatizaciones activados. Las fotos deben superar el control de calidad en REVISION_VISUAL.md.
+
+## Feed como portfolio — actualización del cliente
+
+Las fotos de trabajos deben tener presencia diaria. Para conservar la pauta de lunes a viernes ya establecida, se interpreta como una fotografía por cada día laborable: **58 espacios fotográficos** en el periodo de referencia. Los **29 espacios adicionales** son artes minimalistas de empresa/servicio con identidad visual; tres se reservan para el tríptico. No existe programación real. Si el cliente amplía la cobertura a fines de semana, recalcular antes de activar el calendario.
+
+Los primeros diez captions se vinculan a los diez primeros espacios fotográficos. El arte de custom fabrication aparece como propuesta en un espacio gráfico después de las reservas del tríptico. Los Stories llevarán logo y complementarán cada pieza. Los videos van al plan de Reels; revisar el comportamiento del grid en la cuenta.
+
+[Artes con logo para revisión](ARTES_MINIMALISTAS.md) · [Plan de uso de Reels](REELS/README.md).
+
+## Secuencia de Story confirmada
+
+Cada arte va seguido inmediatamente por una foto del trabajo correspondiente, sin intercalar otro servicio. Registrar orden 1 arte y orden 2 foto con el mismo sequence_id. Si se aplica a los 87 posts tentativos, equivale a 87 parejas / 174 frames, todavía sin producir ni programar. Las dos parejas de muestra están en [STORY_SEQUENCES/README.md](STORY_SEQUENCES/README.md).

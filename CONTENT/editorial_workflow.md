@@ -43,3 +43,13 @@ TikTok y YouTube quedan fuera de publicación durante Fase 1. Estrategias indepe
 ## Calidad visual, DM y Threads
 
 Consultar REVISION_VISUAL.md, quality_inventory.csv y DM_THREADS_HASHTAGS.md. Cintas, escaleras, protección de piso, personas o embalaje temporal se revisan antes de usar una imagen como feed premium. Los retoques generados no se marcan finales hasta verificar fidelidad contra la fuente y dimensiones de exportación. Los Stories requieren contraste, lectura rápida y zonas seguras. Un CTA dibujado no es un botón nativo configurado. Threads está incluido para preparar versiones de posts en su cuenta oficial confirmada; verificar ruta de publicación y formato de etiquetas antes de publicar. Los Stories asociados corresponden a IG/FB; no se han propuesto Stories de Threads.
+
+## Logo en Stories y distribución de formatos
+
+El logo de North Metal Design adjunto por el cliente es la referencia actual. Todos los artes de Stories lo incluirán, sin sustituirlo por texto genérico ni logos de las agencias del reporte. Verificar reproducción fiel del original y usar el archivo maestro en producción final. Mantener diseños minimalistas centrados en empresa, capacidades y servicios.
+
+El feed mantiene una foto de trabajo por cada día laborable y, en días de dos posts, un arte gráfico adicional. Las fotografías retocadas deben superar el control de fidelidad. Preparar videos como Reels y verificar si su portada puede quedar fuera del grid del portfolio; no asumir un comportamiento de plataforma sin comprobarlo.
+
+## Secuencia de Story confirmada
+
+Cada arte va seguido inmediatamente por una foto del trabajo correspondiente, sin intercalar otro servicio. Registrar orden 1 arte y orden 2 foto con el mismo sequence_id. Si se aplica a los 87 posts tentativos, equivale a 87 parejas / 174 frames, todavía sin producir ni programar. Las dos parejas de muestra están en [STORY_SEQUENCES/README.md](STORY_SEQUENCES/README.md).

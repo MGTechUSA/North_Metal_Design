@@ -11,7 +11,7 @@
 - Datos de dirección y horario confirmados por el cliente.
 - Paquetes preparados para traslado; copia local sin prioridad por indicación del cliente.
 - Revisión general en siete hojas de contacto: 79 originales, 30 con observaciones prioritarias, todos pendientes de validación final.
-- Cuatro pruebas de retoque (dos por foto) y un Story gráfico conceptual para revisión.
+- Cuatro pruebas de retoque (dos por foto), dos nuevos Stories con logo y un arte gráfico de feed para revisión. La prueba de Story anterior sin logo queda como antecedente.
 - Diez captions IG/FB con cinco hashtags específicos y diez versiones cortas de Threads.
 - Calendario editorial tentativo hasta el 31 de diciembre: 87 espacios, alternando 1 y 2 posts por día laborable. No programado.
 
@@ -21,8 +21,12 @@ Unificar ZIP y horarios; sustituir texto ajeno de Ozlockers; revisar afirmacione
 
 ## Todavía no realizado
 
-Cambios externos: **0**. Publicaciones programadas: **0**. Publicaciones publicadas: **0**. Posts archivados: **0**. Exportaciones finales 1080 × 1080: **0**. Stories gráficos finales: **0**; hay **1 borrador visual**. Tríptico terminado: **no**. Logo MGT Systems incorporado al reporte: **no**. Archivos copiados a tu PC desde cloud: **no comprobado**.
+Cambios externos: **0**. Publicaciones programadas: **0**. Publicaciones publicadas: **0**. Posts archivados: **0**. Exportaciones finales 1080 × 1080: **0**. Stories gráficos finales: **0**; hay **2 nuevos borradores con logo** y una prueba anterior sin logo fuera de selección. Tríptico terminado: **no**. Logo MGT Systems incorporado al reporte: **no**. Archivos copiados a tu PC desde cloud: **no comprobado**.
 
 ## Siguiente paso
 
 Resolver los accesos indicados en ACCESOS_PENDIENTES.md, completar la revisión de las cuentas, preparar piezas finales y ejecutar cambios con evidencia antes/después. Las correcciones de ZIP y horario ya están confirmadas; no requieren volver a preguntar por esos valores.
+
+Calendario reequilibrado: 58 espacios de fotos y 29 artes complementarios. Ninguna publicación programada. Logo adjunto por el cliente utilizado como referencia de diseño; cotejo fiel y exportación final pendientes.
+
+Stories: dos parejas de muestra (arte con logo + foto correspondiente). El plan de 87 posts implicaría 174 frames, no creados todavía. Fotos de muestra conservan bytes originales y requieren composición final para Story.

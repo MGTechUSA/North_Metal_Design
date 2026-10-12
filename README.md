@@ -4,6 +4,9 @@ Documentación de auditoría, contenido y presencia digital del cliente. Comienz
 
 | Qué revisar | Documento |
 | --- | --- |
+| Stories en parejas: arte → foto | [Secuencias de muestra](CONTENT/STORY_SEQUENCES/README.md) |
+| Nuevos artes con logo | [Dos Stories y un post gráfico](CONTENT/ARTES_MINIMALISTAS.md) |
+| Videos en Reels | [Criterios de formato y grid](CONTENT/REELS/README.md) |
 | Retoques y Story para revisión | [Revisión visual](CONTENT/REVISION_VISUAL.md) |
 | DM, cinco hashtags y Threads | [Criterios y estado](CONTENT/DM_THREADS_HASHTAGS.md) |
 | Ver las imágenes del portfolio | [Galería visual](GALERIA_PORTFOLIO.md) |
@@ -26,3 +29,5 @@ Reporte final con el logo de MGT Systems proporcionado por el cliente. La secci�
 Cadencia vigente: alternar 1 y 2 posts por día laborable; cobertura del resto del año y calidad por encima de cuota. GitHub es el punto de revisión actual; la copia local dejó de ser prioridad.
 
 Actualización: Threads oficial confirmado como https://www.threads.com/@northmetaldesignllc. Se preparan versiones propias, con ruta de publicación pendiente de verificar. Posts IG/FB: cinco hashtags específicos y CTA a DM; los botones nativos no están configurados.
+
+Feed como portfolio: foto de trabajo cada día laborable y artes minimalistas complementarios en los días de dos posts. Todos los Stories deben incluir el logo de North Metal Design. Videos: Reels, con presentación en el grid pendiente de verificar en la cuenta.
