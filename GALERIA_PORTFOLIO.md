@@ -1,10 +1,12 @@
 # Galería visual del portfolio
 
+[Ver retoques y Story con CTA a DM](CONTENT/REVISION_VISUAL.md) · [Inventario de calidad de los 79 originales](CONTENT/quality_inventory.csv)
+
 **Originales del sitio oficial, sin modificación de sus bytes.** Estas imágenes todavía no son piezas finales 1080 × 1080. Hay 88 archivos descargados y 79 contenidos distintos.
 
 En GitHub, las vistas se cargan desde sus URLs originales del sitio oficial. Para ver todos los archivos en tu PC después de extraer ambos paquetes, abre [GALERIA_PORTFOLIO.html](GALERIA_PORTFOLIO.html).
 
-## Diez imágenes seleccionadas para borradores
+## Diez originales utilizados para borradores — revisión visual pendiente
 
 ### NMD-DRAFT-001 — Railings
 

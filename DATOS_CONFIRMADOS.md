@@ -11,6 +11,7 @@
 | Portfolio | https://northmetaldesign.com/portfolio/ |
 | Instagram | https://www.instagram.com/northmetaldesignllc/ |
 | Facebook | https://www.facebook.com/northmetaldesignllc |
+| Threads | https://www.threads.com/@northmetaldesignllc — confirmado por el cliente |
 | Atención | Lunes a viernes, 8:00 AM–5:00 PM |
 | Sábados | Con cita previa / By appointment |
 | Zona horaria | America/Chicago |

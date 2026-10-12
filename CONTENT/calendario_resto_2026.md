@@ -4,7 +4,7 @@ Instrucción vigente del cliente: alternar **1 post un día y 2 al siguiente**, 
 
 ## Volumen de referencia
 
-Plan tentativo del **13 de octubre al 31 de diciembre de 2026**, empezando con un día de un post. Hay **58 días laborables y 87 espacios de feed**, cada uno distribuido en Instagram y Facebook, más un Story relacionado por pieza. Son aproximadamente **7–8 posts semanales** y **30–35 mensuales completos**. Una pieza distribuida en dos plataformas no cuenta como dos contenidos diferentes.
+Plan tentativo del **13 de octubre al 31 de diciembre de 2026**, empezando con un día de un post. Hay **58 días laborables y 87 espacios de feed**, cada uno previsto para Instagram y Facebook, más una versión para Threads cuando se verifique su ruta de publicación, y un Story relacionado para IG/FB. Son aproximadamente **7–8 posts semanales** y **30–35 mensuales completos**. Una pieza distribuida en dos plataformas no cuenta como dos contenidos diferentes.
 
 | Periodo | Posts propuestos | Stories asociados |
 | --- | --- | --- |
@@ -34,3 +34,5 @@ Cuando varias fotografías muestran un mismo trabajo, elegir entre una pieza ind
 Seleccionar y agrupar material; preparar la siguiente tanda visual con sus captions y Stories; mostrarla en GitHub y en el chat para revisión. Distribuir el material aprobado para cubrir el año antes de concentrarlo en una sola semana. Calidad por encima de cuota: mover u omitir un espacio si no hay una pieza sólida.
 
 La copia local y el montaje de G: dejaron de ser prioridad por indicación del cliente; GitHub es el punto de revisión actual. Mantener los paquetes existentes disponibles, sin pedir conectar el PC para continuar la preparación editorial.
+
+Actualización visual y de conversión: cinco hashtags específicos por caption IG/FB; versiones Threads y etiquetas sujetas al formato nativo confirmado. CTAs a DM preparados, sin botones ni automatizaciones activados. Las fotos deben superar el control de calidad en REVISION_VISUAL.md.

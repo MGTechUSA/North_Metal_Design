@@ -22,7 +22,7 @@ Cada caption debe partir de observaciones reales: producto, forma, disposición,
 
 CTAs disponibles: Request a Quote; Start Your Project; Contact North Metal Design; Let’s Build Something Custom; Schedule a Consultation únicamente si existe un proceso de consulta.
 
-Elegir 3–6 hashtags específicos como criterio editorial inicial, sin tratar esa cifra como regla de plataforma: #NorthMetalDesign, #CustomMetalFabrication y etiquetas verificadas del producto o audiencia. Usar #DFWContractors o #TexasConstruction cuando el enfoque lo justifique. No aplicar #LuxuryHomes a cualquier proyecto.
+Usar exactamente cinco hashtags específicos en captions IG/FB según la nueva instrucción del cliente: #NorthMetalDesign, #CustomMetalFabrication y etiquetas verificadas del producto o audiencia. Usar #DFWContractors o #TexasConstruction cuando el enfoque lo justifique. No aplicar #LuxuryHomes a cualquier proyecto.
 
 ## Calendario vigente
 
@@ -39,3 +39,7 @@ Estados: unassigned → draft → reviewed → approved cuando se requiera → s
 Métricas: consultas de cotización, contactos relevantes, conversaciones con builders/contractors/architects, visitas de contacto y leads calificados. Seguimiento por fuente y producto, sin inventar cifras base ni recopilar datos personales innecesarios. No contactar prospectos ni comprar anuncios como parte de la preparación.
 
 TikTok y YouTube quedan fuera de publicación durante Fase 1. Estrategias independientes de video después de completar esta fase y obtener aprobación del cliente.
+
+## Calidad visual, DM y Threads
+
+Consultar REVISION_VISUAL.md, quality_inventory.csv y DM_THREADS_HASHTAGS.md. Cintas, escaleras, protección de piso, personas o embalaje temporal se revisan antes de usar una imagen como feed premium. Los retoques generados no se marcan finales hasta verificar fidelidad contra la fuente y dimensiones de exportación. Los Stories requieren contraste, lectura rápida y zonas seguras. Un CTA dibujado no es un botón nativo configurado. Threads está incluido para preparar versiones de posts en su cuenta oficial confirmada; verificar ruta de publicación y formato de etiquetas antes de publicar. Los Stories asociados corresponden a IG/FB; no se han propuesto Stories de Threads.

@@ -2,7 +2,7 @@
 
 | Requisito | Trabajo que desbloquea |
 | --- | --- |
-| Sesión o integración autorizada de Meta Business Suite | Revisar la cuenta completa, corregir perfiles, archivar cuando corresponda y programar IG/FB |
+| Sesión o integración autorizada de Meta Business Suite | Revisar la cuenta completa, corregir perfiles, archivar cuando corresponda y programar IG/FB; comprobar ruta y permisos de Threads |
 | Acceso autorizado al administrador del website | Aplicar las correcciones de contenido ya preparadas |
 | Logos actuales de North Metal Design de NEW | Preparar identidad visual y tríptico sin usar logos anteriores |
 | Archivo original accesible del logo MGT Systems | Incorporar la marca al reporte final sin redibujarla |
